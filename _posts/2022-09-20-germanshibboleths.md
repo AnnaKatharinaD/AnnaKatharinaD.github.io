@@ -1,6 +1,6 @@
-#Characterizing features and shibboleths in german dialect areas
+# Characterizing features and shibboleths in german dialect areas
 
-##Data
+## Data
 The data comes from the "Phonetischer Atlas
 von Deutschland" collected at the research center
 "Deutscher Sprachatlas" in Marburg. The corpus
@@ -12,9 +12,9 @@ bols. The concepts used are based on sentences
 developed by Georg Wenker in 1880, specifically
 to show the differences in german dialects.
 
-##Identifying shibboleths
+## Identifying shibboleths
 
-##Identifying characteristic sound features
+## Identifying characteristic sound features
 
 The results for all three dimensions align with Ger-
 man dialect features. The most prominent differ-
