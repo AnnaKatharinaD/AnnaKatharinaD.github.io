@@ -1,5 +1,5 @@
 # Characterizing features and shibboleths in german dialect areas
-
+<!--
 ## Data
 The data comes from the "Phonetischer Atlas
 von Deutschland" collected at the research center
@@ -16,33 +16,22 @@ to show the differences in german dialects.
 
 ## Identifying characteristic sound features
 
-The results for all three dimensions align with Ger-
-man dialect features. The most prominent differ-
-ences between the sites in the first and second di-
-mension correspond to the classification of lower,
+
+The results for all three dimensions align with German dialect features. The most prominent differences between the sites in the first and second dimension correspond to the classification of lower,
 middle and high German. The features such as re-
 placing [t] with [s] like in ’essen’ corresponds to the
 high German consonant shift that affected the south
 of Germany the most, while leaving most of north
-Germany unaffected. In this way, northern Ger-
-many shares similarities with other germanic lan-
-guages such as English (eat) or Dutch (eten). The
-low MDS in the north correspond to the lower Ger-
-man dialects that were least affected by the High
-German Dialect shifts, while the high MDS values
-in the south correspond to the highly affected areas
-(High German). In the second dimension the low
-MDS values are separated such that they resembles
+Germany unaffected. In this way, northern Germany shares similarities with other germanic languages such as English (eat) or Dutch (eten). The low MDS in the north correspond to the lower German dialects that were least affected by the High German Dialect shifts, while the high MDS values in the south correspond to the highly affected areas
+(High German).
+
+In the second dimension the low MDS values are separated such that they resembles
 the geographical area of Middle German. The main
-separating line between high and low values also
-closely resembles the so called Benrath line and
-Uerdinger line. These two isoglosses divide the
-northern dialects from the middle and high German
-dialects. The defining feature, [k] -> [x] (’maken’
-vs. ’machen’ and ’ik’ vs. ’ich’ for both lines respec-
-tively) is prominent in the differing features within
-the sites of the second dimension. The third dimen-
-sion divides the upper and middle German dialects
+separating line between high and low values also closely resembles the so called Benrath line and Uerdinger line. These two isoglosses divide the northern dialects from the middle and high German
+dialects. The defining feature, [k] -> [x] (’maken’ vs. ’machen’ and ’ik’ vs. ’ich’ for both lines respectively) is prominent in the differing features within
+the sites of the second dimension.
+
+The third dimension divides the upper and middle German dialects
 into two groups: The western part includes Rhine
 and Moselle Franconian as well as hessian dialects,
 and even Swabian in the south. There is a sharp
@@ -56,4 +45,4 @@ sion shows the distinction between low and middle
 german dialects, and the third dimension shows the
 east-west split between west and east Upper and
 Middle German, namely between the Franconian
-dialects and the Bavarian/Saxonian dialects.
+dialects and the Bavarian/Saxonian dialects. -->
