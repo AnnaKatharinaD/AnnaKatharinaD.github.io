@@ -30,26 +30,22 @@ tion on short descriptions by at least 3%. Joint predictions of the component
 severities reduced variance in prediction results. By examining the misclas-
 sifications of the model, I identified descriptions that might be misleading to
 viewers. The model can therefore also be used for optimizing the process of
-writing and evaluating descriptions for film
+writing and evaluating descriptions for film.
 
 ## MPA rating system
 
 - G: General Audiences. All ages permitted. May not contain any nudity, sex scenes, drug use or strong words, and only minimal violence is permitted.
-- PG: Parental Guidance Suggested. Some Material May Not Be Suitable For Chil-
-dren. May contain some profanity, some depictions of violence or brief nudity. No
-drug use.
+- PG: Parental Guidance Suggested. Some Material May Not Be Suitable For Children. May contain some profanity, some depictions of violence or brief nudity. No drug use.
 - PG-13: Parents Strongly Cautioned. Some Material May Be Inappropriate For
 Children Under 13. May contain longer nudity but usually not sexually oriented, depictions of
-violence but not realistic and extreme or persistent, a single use of sexually-
-derived profanity is allowed but only as an expletive. May include drug use.
+violence but not realistic and extreme or persistent, a single use of sexually-derived profanity is allowed but only as an expletive. May include drug use.
 - R: Children Under 17 Require Accompanying Parent or Adult Guardian. Contains adult material. May include adult themes, adult activity, hard language, intense or persistent violence, sexually-oriented nudity, drug abuse or other elements.
 - NC-17: No One 17 and Under Admitted. Only appropriate for an adult audience. May include graphic depictions of violence, sex, aberrational behavior, drug abuse or any other element that
-most parents would consider too strong and therefore off-limits for viewing by
-their children.
+most parents would consider too strong and therefore off-limits for viewing by their children.
 
 ---
 
-## Lists
+<!--## Lists
 
 Here's a list:
 
@@ -99,5 +95,5 @@ print(1+1)
 
 ## Footnotes
 
-[^1]: This is the footnote.
+[^1]: This is the footnote. -->
 
